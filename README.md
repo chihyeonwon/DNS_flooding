@@ -1,4 +1,5 @@
 # DNS Flooding Attack 분석 보고서
+이글루코퍼레이션 원치현 DNS Flooding Attack Analyze Report
 
 ## 1. 개요
 DNS Flooding Attack은 대량의 DNS 요청을 생성하여 DNS 서버의 자원을 소진시키고, 정상적인 트래픽을 방해하는 **DDoS(Distributed Denial of Service) 공격**의 한 형태입니다. 본 보고서는 DNS Flooding Attack의 원리, 유형, 영향 및 방어 방법을 분석합니다.
